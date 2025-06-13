@@ -45,4 +45,6 @@ To successfully navigate Nexus, think about implementing the following precautio
 
 This guide is intended solely for educational purposes. The information that is provided has the aim of enhancing awareness and understanding of darknet operations. We neither endorse, nor do we promote, any illegal activities. Always comply with the applicable laws and regulations within your jurisdiction.
 
-Update:  11.06.2025
+
+
+Update: Dead links
