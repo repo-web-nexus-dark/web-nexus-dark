@@ -47,4 +47,6 @@ This guide is intended solely for educational purposes. The information that is 
 
 
 
-Update: Dead links
+
+
+Update:  16.06.2025 05:27 Fixed broken links in performance benchmarks
