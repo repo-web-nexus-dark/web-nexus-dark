@@ -55,4 +55,6 @@ This guide is intended solely for educational purposes. The information that is 
 
 
 
-Update:  23 June
+
+
+Update:  24 June Updated design pattern reference links
