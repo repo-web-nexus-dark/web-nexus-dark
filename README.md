@@ -63,4 +63,6 @@ This guide is intended solely for educational purposes. The information that is 
 
 
 
-Update: url is live again
+
+
+Update:  Monday 14 July 2025 Navigation repair
