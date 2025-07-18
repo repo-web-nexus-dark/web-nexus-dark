@@ -65,4 +65,6 @@ This guide is intended solely for educational purposes. The information that is 
 
 
 
-Update:  Monday 14 July 2025 Navigation repair
+
+
+Update: Fixed broken link, now operational
