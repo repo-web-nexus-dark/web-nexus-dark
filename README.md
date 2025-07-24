@@ -69,4 +69,6 @@ This guide is intended solely for educational purposes. The information that is 
 
 
 
-Update:  07/21/2025 The broken link has been fixed, it's now operational.
+
+
+Update: Fixed broken url
